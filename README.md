@@ -1,6 +1,6 @@
 # Federated Learning for Multilingual Paraphrase Detection
 
-This project simulates a federated learning system to train a single model for paraphrase detection in both **English** and **German** without centralizing the datasets. It extends the paraphrase detection research by Professor Pankaj Dadure by tackling the core challenge of training on **non-iid (statistically different)** data from multiple languages.
+This project simulates a federated learning system to train a single model for paraphrase detection in both **English** and **German** without centralizing the datasets.
 
 ## 🛠️ Methodology
 
